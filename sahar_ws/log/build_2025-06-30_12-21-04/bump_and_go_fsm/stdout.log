@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/bump_and_go_node.dir/src/bump_and_go_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable bump_and_go_node[0m
+[100%] Built target bump_and_go_node
+-- Install configuration: ""
+-- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/lib/bump_and_go_fsm/bump_and_go_node
+-- Set non-toolchain portion of runtime path of "/home/sahar/sahar_ws/install/bump_and_go_fsm/lib/bump_and_go_fsm/bump_and_go_node" to ""
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/ament_index/resource_index/package_run_dependencies/bump_and_go_fsm
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/ament_index/resource_index/parent_prefix_path/bump_and_go_fsm
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/ament_prefix_path.sh
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/path.sh
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/path.dsv
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.bash
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.sh
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.zsh
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.dsv
+-- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/package.dsv
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/ament_index/resource_index/packages/bump_and_go_fsm
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/cmake/bump_and_go_fsmConfig.cmake
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/cmake/bump_and_go_fsmConfig-version.cmake
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/package.xml

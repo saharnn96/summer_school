@@ -1,0 +1,8 @@
+source;share/bump_and_go_fsm/hook/cmake_prefix_path.ps1
+source;share/bump_and_go_fsm/hook/cmake_prefix_path.dsv
+source;share/bump_and_go_fsm/hook/cmake_prefix_path.sh
+source;share/bump_and_go_fsm/local_setup.bash
+source;share/bump_and_go_fsm/local_setup.dsv
+source;share/bump_and_go_fsm/local_setup.ps1
+source;share/bump_and_go_fsm/local_setup.sh
+source;share/bump_and_go_fsm/local_setup.zsh

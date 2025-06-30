@@ -1,0 +1,10 @@
+[01m[K/home/sahar/sahar_ws/src/bump_and_go_fsm/src/bump_and_go_node.cpp:[m[K In member function ‘[01m[Kbool BumpAndGoFSM::[01;32m[Kobstacle_detected[m[K(sensor_msgs::msg::LaserScan_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/sahar/sahar_ws/src/bump_and_go_fsm/src/bump_and_go_node.cpp:42:41:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+   42 |         for (size_t i = center_range; [01;35m[Ki < center_range * 2[m[K; ++i)  // Check front 1/3 of scan
+      |                                       [01;35m[K~~^~~~~~~~~~~~~~~~~~[m[K
+/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x1b): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/bump_and_go_node.dir/build.make:187: bump_and_go_node] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/bump_and_go_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

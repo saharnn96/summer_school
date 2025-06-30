@@ -1,0 +1,4 @@
+source;share/bump_and_go_fsm/local_setup.bash
+source;share/bump_and_go_fsm/local_setup.dsv
+source;share/bump_and_go_fsm/local_setup.sh
+source;share/bump_and_go_fsm/local_setup.zsh

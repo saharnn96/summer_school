@@ -1,0 +1,25 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/bump_and_go_node.dir/src/bump_and_go_node.cpp.o[0m
+[01m[K/home/sahar/sahar_ws/src/bump_and_go_fsm/src/bump_and_go_node.cpp:[m[K In member function ‘[01m[Kbool BumpAndGoFSM::[01;32m[Kobstacle_detected[m[K(sensor_msgs::msg::LaserScan_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/sahar/sahar_ws/src/bump_and_go_fsm/src/bump_and_go_node.cpp:120:41:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+  120 |         for (size_t i = center_range; [01;35m[Ki < center_range * 2[m[K; ++i)  // Check front 1/3 of scan
+      |                                       [01;35m[K~~^~~~~~~~~~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable bump_and_go_node[0m
+[100%] Built target bump_and_go_node
+-- Install configuration: ""
+-- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/lib/bump_and_go_fsm/bump_and_go_node
+-- Set non-toolchain portion of runtime path of "/home/sahar/sahar_ws/install/bump_and_go_fsm/lib/bump_and_go_fsm/bump_and_go_node" to ""
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/ament_index/resource_index/package_run_dependencies/bump_and_go_fsm
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/ament_index/resource_index/parent_prefix_path/bump_and_go_fsm
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/ament_prefix_path.sh
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/path.sh
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/path.dsv
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.bash
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.sh
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.zsh
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.dsv
+-- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/package.dsv
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/ament_index/resource_index/packages/bump_and_go_fsm
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/cmake/bump_and_go_fsmConfig.cmake
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/cmake/bump_and_go_fsmConfig-version.cmake
+-- Up-to-date: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/package.xml

@@ -1,0 +1,64 @@
+[0.010s] Invoking command in '/home/sahar/sahar_ws/build/bump_and_go_fsm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sahar/ros2_ws/install/merlin2_mission:/home/sahar/ros2_ws/install/merlin2_fsm_action:/home/sahar/ros2_ws/install/merlin2_executor:/home/sahar/ros2_ws/install/merlin2_basic_actions:/home/sahar/ros2_ws/install/waypoint_navigation:/home/sahar/ros2_ws/install/text_to_speech:/home/sahar/ros2_ws/install/speech_to_text:/home/sahar/ros2_ws/install/sound_recognition:/home/sahar/ros2_ws/install/mirte_test:/home/sahar/ros2_ws/install/merlin2_reactive_layer:/home/sahar/ros2_ws/install/merlin2_planning_layer:/home/sahar/ros2_ws/install/merlin2_mission_layer:/home/sahar/ros2_ws/install/merlin2_executive_layer:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/sahar/sahar_ws/src/bump_and_go_fsm -DCMAKE_INSTALL_PREFIX=/home/sahar/sahar_ws/install/bump_and_go_fsm
+[0.059s] -- The C compiler identification is GNU 13.3.0
+[0.109s] -- The CXX compiler identification is GNU 13.3.0
+[0.126s] -- Detecting C compiler ABI info
+[0.209s] -- Detecting C compiler ABI info - done
+[0.216s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.216s] -- Detecting C compile features
+[0.216s] -- Detecting C compile features - done
+[0.226s] -- Detecting CXX compiler ABI info
+[0.317s] -- Detecting CXX compiler ABI info - done
+[0.328s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.329s] -- Detecting CXX compile features
+[0.329s] -- Detecting CXX compile features - done
+[0.337s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.521s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.666s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.722s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.739s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.764s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.785s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.878s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.884s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.991s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.010s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.035s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.122s] -- Found geometry_msgs: 5.3.5 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[1.158s] -- Found sensor_msgs: 5.3.5 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+[1.188s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.298s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.299s] -- Configured cppcheck include dirs: 
+[1.299s] -- Configured cppcheck exclude dirs and/or files: 
+[1.301s] -- Added test 'lint_cmake' to check CMake code style
+[1.302s] -- Added test 'uncrustify' to check C / C++ code style
+[1.302s] -- Configured uncrustify additional arguments: 
+[1.303s] -- Added test 'xmllint' to check XML markup files
+[1.306s] -- Configuring done (1.3s)
+[1.314s] -- Generating done (0.0s)
+[1.317s] -- Build files have been written to: /home/sahar/sahar_ws/build/bump_and_go_fsm
+[1.329s] Invoked command in '/home/sahar/sahar_ws/build/bump_and_go_fsm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sahar/ros2_ws/install/merlin2_mission:/home/sahar/ros2_ws/install/merlin2_fsm_action:/home/sahar/ros2_ws/install/merlin2_executor:/home/sahar/ros2_ws/install/merlin2_basic_actions:/home/sahar/ros2_ws/install/waypoint_navigation:/home/sahar/ros2_ws/install/text_to_speech:/home/sahar/ros2_ws/install/speech_to_text:/home/sahar/ros2_ws/install/sound_recognition:/home/sahar/ros2_ws/install/mirte_test:/home/sahar/ros2_ws/install/merlin2_reactive_layer:/home/sahar/ros2_ws/install/merlin2_planning_layer:/home/sahar/ros2_ws/install/merlin2_mission_layer:/home/sahar/ros2_ws/install/merlin2_executive_layer:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/sahar/sahar_ws/src/bump_and_go_fsm -DCMAKE_INSTALL_PREFIX=/home/sahar/sahar_ws/install/bump_and_go_fsm
+[1.330s] Invoking command in '/home/sahar/sahar_ws/build/bump_and_go_fsm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sahar/ros2_ws/install/merlin2_mission:/home/sahar/ros2_ws/install/merlin2_fsm_action:/home/sahar/ros2_ws/install/merlin2_executor:/home/sahar/ros2_ws/install/merlin2_basic_actions:/home/sahar/ros2_ws/install/waypoint_navigation:/home/sahar/ros2_ws/install/text_to_speech:/home/sahar/ros2_ws/install/speech_to_text:/home/sahar/ros2_ws/install/sound_recognition:/home/sahar/ros2_ws/install/mirte_test:/home/sahar/ros2_ws/install/merlin2_reactive_layer:/home/sahar/ros2_ws/install/merlin2_planning_layer:/home/sahar/ros2_ws/install/merlin2_mission_layer:/home/sahar/ros2_ws/install/merlin2_executive_layer:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/sahar/sahar_ws/build/bump_and_go_fsm -- -j28 -l28
+[1.386s] [ 50%] [32mBuilding CXX object CMakeFiles/bump_and_go_node.dir/src/bump_and_go_node.cpp.o[0m
+[7.547s] [100%] [32m[1mLinking CXX executable bump_and_go_node[0m
+[7.779s] [100%] Built target bump_and_go_node
+[7.789s] Invoked command in '/home/sahar/sahar_ws/build/bump_and_go_fsm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sahar/ros2_ws/install/merlin2_mission:/home/sahar/ros2_ws/install/merlin2_fsm_action:/home/sahar/ros2_ws/install/merlin2_executor:/home/sahar/ros2_ws/install/merlin2_basic_actions:/home/sahar/ros2_ws/install/waypoint_navigation:/home/sahar/ros2_ws/install/text_to_speech:/home/sahar/ros2_ws/install/speech_to_text:/home/sahar/ros2_ws/install/sound_recognition:/home/sahar/ros2_ws/install/mirte_test:/home/sahar/ros2_ws/install/merlin2_reactive_layer:/home/sahar/ros2_ws/install/merlin2_planning_layer:/home/sahar/ros2_ws/install/merlin2_mission_layer:/home/sahar/ros2_ws/install/merlin2_executive_layer:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/sahar/sahar_ws/build/bump_and_go_fsm -- -j28 -l28
+[7.799s] Invoking command in '/home/sahar/sahar_ws/build/bump_and_go_fsm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sahar/ros2_ws/install/merlin2_mission:/home/sahar/ros2_ws/install/merlin2_fsm_action:/home/sahar/ros2_ws/install/merlin2_executor:/home/sahar/ros2_ws/install/merlin2_basic_actions:/home/sahar/ros2_ws/install/waypoint_navigation:/home/sahar/ros2_ws/install/text_to_speech:/home/sahar/ros2_ws/install/speech_to_text:/home/sahar/ros2_ws/install/sound_recognition:/home/sahar/ros2_ws/install/mirte_test:/home/sahar/ros2_ws/install/merlin2_reactive_layer:/home/sahar/ros2_ws/install/merlin2_planning_layer:/home/sahar/ros2_ws/install/merlin2_mission_layer:/home/sahar/ros2_ws/install/merlin2_executive_layer:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/sahar/sahar_ws/build/bump_and_go_fsm
+[7.806s] -- Install configuration: ""
+[7.806s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/lib/bump_and_go_fsm/bump_and_go_node
+[7.809s] -- Set non-toolchain portion of runtime path of "/home/sahar/sahar_ws/install/bump_and_go_fsm/lib/bump_and_go_fsm/bump_and_go_node" to ""
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/ament_index/resource_index/package_run_dependencies/bump_and_go_fsm
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/ament_index/resource_index/parent_prefix_path/bump_and_go_fsm
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/ament_prefix_path.sh
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/ament_prefix_path.dsv
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/path.sh
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/environment/path.dsv
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.bash
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.sh
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.zsh
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/local_setup.dsv
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/package.dsv
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/ament_index/resource_index/packages/bump_and_go_fsm
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/cmake/bump_and_go_fsmConfig.cmake
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/cmake/bump_and_go_fsmConfig-version.cmake
+[7.809s] -- Installing: /home/sahar/sahar_ws/install/bump_and_go_fsm/share/bump_and_go_fsm/package.xml
+[7.811s] Invoked command in '/home/sahar/sahar_ws/build/bump_and_go_fsm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sahar/ros2_ws/install/merlin2_mission:/home/sahar/ros2_ws/install/merlin2_fsm_action:/home/sahar/ros2_ws/install/merlin2_executor:/home/sahar/ros2_ws/install/merlin2_basic_actions:/home/sahar/ros2_ws/install/waypoint_navigation:/home/sahar/ros2_ws/install/text_to_speech:/home/sahar/ros2_ws/install/speech_to_text:/home/sahar/ros2_ws/install/sound_recognition:/home/sahar/ros2_ws/install/mirte_test:/home/sahar/ros2_ws/install/merlin2_reactive_layer:/home/sahar/ros2_ws/install/merlin2_planning_layer:/home/sahar/ros2_ws/install/merlin2_mission_layer:/home/sahar/ros2_ws/install/merlin2_executive_layer:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/sahar/sahar_ws/build/bump_and_go_fsm
